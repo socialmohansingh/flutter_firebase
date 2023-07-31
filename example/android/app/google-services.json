@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "858175117359",
+    "project_id": "flutter-irebase",
+    "storage_bucket": "flutter-irebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858175117359:android:0ef1b97619c7b309538eda",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858175117359-0ku726ftb6364rnmnm173nu41js69vhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZS_HcyLrgB5JRofMh3vBdde5MuV9cAzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858175117359-0ku726ftb6364rnmnm173nu41js69vhn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858175117359-u6tco1s8ngj90qfh73da6tfbe8mgd118.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
